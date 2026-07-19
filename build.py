@@ -21,7 +21,7 @@ TEMPLATES_DIR = ROOT / "templates"
 STATIC_DIR = ROOT / "static"
 DIST_DIR = ROOT / "dist"
 
-SITE_URL = "https://REMPLACE-MOI.github.io/airfryer-blog"
+SITE_URL = "https://KarimZer2.github.io/airfryer-blog"
 SITE_NAME = "Croustille & Cie"
 
 TYPE_LABELS = {
