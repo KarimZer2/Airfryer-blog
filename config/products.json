@@ -4,7 +4,7 @@
     {
       "id": "philips-xxl",
       "name": "Philips Airfryer XXL",
-      "asin": "B07GFQZ8FS",
+      "asin": "B0FNYCH1VL",
       "category": "haut-de-gamme",
       "prix_indicatif": "199€",
       "capacite": "7.3 L",
@@ -12,8 +12,8 @@
     },
     {
       "id": "ninja-af",
-      "name": "Ninja Air Fryer AF100",
-      "asin": "B07FDJMC9Q",
+      "name": "Ninja Foodi Dual Zone",
+      "asin": "B0CFL49C1J",
       "category": "polyvalent",
       "prix_indicatif": "129€",
       "capacite": "3.8 L",
@@ -22,7 +22,7 @@
     {
       "id": "cosori-pro",
       "name": "Cosori Pro II",
-      "asin": "B08H29LM4C",
+      "asin": "B0GBXY2YKK",
       "category": "milieu-de-gamme",
       "prix_indicatif": "99€",
       "capacite": "5.5 L",
@@ -30,8 +30,8 @@
     },
     {
       "id": "moulinex-easy-fry",
-      "name": "Moulinex Easy Fry Dual",
-      "asin": "B08K8QF4RN",
+      "name": "Moulinex Easy Fry Dual XXL",
+      "asin": "B0F6Y4SQX6",
       "category": "double-cuve",
       "prix_indicatif": "149€",
       "capacite": "2x4.2 L",
@@ -40,7 +40,7 @@
     {
       "id": "tefal-easy-fry",
       "name": "Tefal Easy Fry & Grill",
-      "asin": "B08CXW9J1L",
+      "asin": "B0CF9RXDTG",
       "category": "entree-de-gamme",
       "prix_indicatif": "89€",
       "capacite": "4.2 L",
