@@ -2,49 +2,44 @@
   "amazon_tag": "croustille-21",
   "products": [
     {
-      "id": "philips-xxl",
-      "name": "Philips Airfryer XXL",
+      "id": "philips-4000",
+      "name": "Philips Airfryer Série 4000",
       "asin": "B0FNYCH1VL",
       "category": "haut-de-gamme",
-      "prix_indicatif": "199€",
-      "capacite": "7.3 L",
-      "points_forts": ["Technologie Twin TurboStar", "Grande capacité famille", "App connectée"]
+      "capacite": "6.2 L",
+      "points_forts": ["Fonction synchronisation", "Grande capacité famille", "App connectée"]
     },
     {
-      "id": "ninja-af",
-      "name": "Ninja Foodi Dual Zone",
+      "id": "ninja-foodi",
+      "name": "Ninja Foodi Dual Zone AF500EU",
       "asin": "B0CFL49C1J",
       "category": "polyvalent",
-      "prix_indicatif": "129€",
-      "capacite": "3.8 L",
-      "points_forts": ["Rapport qualité-prix", "Cuve antiadhésive", "Compact"]
+      "capacite": "7.6 L",
+      "points_forts": ["Double zone de cuisson", "Fonction Match Cook", "Cuve antiadhésive"]
     },
     {
-      "id": "cosori-pro",
-      "name": "Cosori Pro II",
+      "id": "twinfry",
+      "name": "TwinFry Air Fryer",
       "asin": "B0GBXY2YKK",
       "category": "milieu-de-gamme",
-      "prix_indicatif": "99€",
-      "capacite": "5.5 L",
-      "points_forts": ["13 programmes", "Silencieux", "Design compact"]
+      "capacite": "voir fiche produit",
+      "points_forts": ["Revêtement céramique", "Fonctions multiples", "Séparateur inclus"]
     },
     {
-      "id": "moulinex-easy-fry",
-      "name": "Moulinex Easy Fry Dual XXL",
+      "id": "moulinex-ez9228",
+      "name": "Moulinex Easy Fry Dual EZ9228F0",
       "asin": "B0F6Y4SQX6",
       "category": "double-cuve",
-      "prix_indicatif": "149€",
-      "capacite": "2x4.2 L",
-      "points_forts": ["Deux cuves indépendantes", "Idéal familles", "Programmes synchronisés"]
+      "capacite": "8 personnes",
+      "points_forts": ["Deux cuves indépendantes", "7 programmes automatiques", "Séparateur intégré"]
     },
     {
-      "id": "tefal-easy-fry",
-      "name": "Tefal Easy Fry & Grill",
+      "id": "tefal-ey5068",
+      "name": "Tefal EY5068",
       "asin": "B0CF9RXDTG",
       "category": "entree-de-gamme",
-      "prix_indicatif": "89€",
-      "capacite": "4.2 L",
-      "points_forts": ["Fonction grill intégrée", "Prix accessible", "Facile à nettoyer"]
+      "capacite": "voir fiche produit",
+      "points_forts": ["Écran de visualisation", "Fonctions automatiques", "Système de visionnement"]
     }
   ],
   "note_disclosure_fr": "En tant que Partenaire Amazon, ce site réalise un bénéfice sur les achats remplissant les conditions requises."
